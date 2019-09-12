@@ -7,7 +7,9 @@ Their (gender unspecific) name is Ewenee.
 
 Ewenee was sat in their beautiful pink grass that was being fanned by a gentle breeze...
 
+<<<<<<< HEAD
 Light laughs the breeze in her castle of sunshine; babbles the bee in a stolid ear...
+<<<<<<< Updated upstream
 
 
 They contemplated a strange, unidentified animal playing with rocks...
@@ -25,3 +27,8 @@ As Ewenee sat enjoying the pleasant afternoon weather a boeing 747 fell out of t
 And thats the tale of the last unicorn.
 
 Ewenee woke up from thier dream and realised that unicorns arent real and they were just a horse. 
+=======
+=======
+They contemplated a strange, unidentified animal playing with rocks
+>>>>>>> 72ad321b41586ca650d5b9f3d37f2d208e1693b5
+>>>>>>> Stashed changes
